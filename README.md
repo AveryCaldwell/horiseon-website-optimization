@@ -51,7 +51,7 @@ Acceptance Criteria
 ### Links
 ​
 - Solution URL: [https://github.com/AveryCaldwell/horiseon-website-optimization](https://github.com/AveryCaldwell/horiseon-website-optimization)
-- Live Site URL: [https://averycaldwell.github.io/horiseon-website-optimization/](https://averycaldwell.github.io/horiseon-website-optimization/)
+- Live Site URL: [https://averycaldwell.github.io/horiseon-website-optimization/index.html](https://averycaldwell.github.io/horiseon-website-optimization/index.html)
 ​
 ## My process
 ​
